@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A97AD121-6FCD-4B94-9CD8-81F913CF58B1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestaoDeParque</RootNamespace>
+    <AssemblyName>GestaoDeParque</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>GestaoDeParque.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Design, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Conexao\Conexao.cs" />
+    <Compile Include="Controller\BloqueioController.cs" />
+    <Compile Include="Controller\ClienteController.cs" />
+    <Compile Include="Controller\ContratoController.cs" />
+    <Compile Include="Controller\CorController.cs" />
+    <Compile Include="Controller\DateController.cs" />
+    <Compile Include="Controller\EntradaSaidaController.cs" />
+    <Compile Include="Controller\FuncionarioController.cs" />
+    <Compile Include="Controller\MarcaController.cs" />
+    <Compile Include="Controller\PerfilController.cs" />
+    <Compile Include="Controller\PrecosController.cs" />
+    <Compile Include="Controller\PrecosRotativosController.cs" />
+    <Compile Include="Controller\TurnosController.cs" />
+    <Compile Include="Controller\USerController.cs" />
+    <Compile Include="Controller\ModeloController.cs" />
+    <Compile Include="Controller\ViaturaClienteController.cs" />
+    <Compile Include="Model\Bloqueio.cs" />
+    <Compile Include="Model\Contratos.cs" />
+    <Compile Include="Model\Cores.cs" />
+    <Compile Include="Model\GetFuncionario.cs" />
+    <Compile Include="Model\Marca.cs" />
+    <Compile Include="Model\Modelos.cs" />
+    <Compile Include="Model\Parametrizacao.cs" />
+    <Compile Include="Model\Perfil.cs" />
+    <Compile Include="Model\Precos.cs" />
+    <Compile Include="Model\PrecosRotativos.cs" />
+    <Compile Include="Model\RegimeDeClientes.cs" />
+    <Compile Include="Model\RegimeDeContratos.cs" />
+    <Compile Include="Model\TurnosF.cs" />
+    <Compile Include="Model\Users.cs" />
+    <Compile Include="Model\Vaga.cs" />
+    <Compile Include="Model\Cliente.cs" />
+    <Compile Include="Model\Entrada_Saida.cs" />
+    <Compile Include="Model\Funcionario.cs" />
+    <Compile Include="Model\Viatura.cs" />
+    <Compile Include="Model\ViaturaCliente.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\CadastroCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CadastroCliente.designer.cs">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CadastroDTurnosFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CadastroDTurnosFuncionarios.Designer.cs">
+      <DependentUpon>CadastroDTurnosFuncionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmAjuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmAjuda.Designer.cs">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroBloqueioViaturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroBloqueioViaturas.Designer.cs">
+      <DependentUpon>frmCadastroBloqueioViaturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroCor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroCor.Designer.cs">
+      <DependentUpon>frmCadastroCor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroDePrecos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroDePrecos.Designer.cs">
+      <DependentUpon>frmCadastroDePrecos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroFuncionario.designer.cs">
+      <DependentUpon>frmCadastroFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroMarca.Designer.cs">
+      <DependentUpon>frmCadastroMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroModelo.Designer.cs">
+      <DependentUpon>frmCadastroModelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmCadastroUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmCadastroUser.Designer.cs">
+      <DependentUpon>frmCadastroUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmSplashScreem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmSplashScreem.Designer.cs">
+      <DependentUpon>frmSplashScreem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmTicketEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmTicketEntrada.Designer.cs">
+      <DependentUpon>frmTicketEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUpdateFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUpdateFuncionario.Designer.cs">
+      <DependentUpon>frmUpdateFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUpdateModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUpdateModelo.Designer.cs">
+      <DependentUpon>frmUpdateModelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUpdatePrecos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUpdatePrecos.Designer.cs">
+      <DependentUpon>frmUpdatePrecos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmUpDateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmUpDateUser.Designer.cs">
+      <DependentUpon>frmUpDateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmViewCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmViewCliente.Designer.cs">
+      <DependentUpon>frmViewCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmViewFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmViewFuncionario.Designer.cs">
+      <DependentUpon>frmViewFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmViewModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmViewModelo.designer.cs">
+      <DependentUpon>frmViewModelo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmViewPrecos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmViewPrecos.Designer.cs">
+      <DependentUpon>frmViewPrecos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizaFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizaFuncionario.Designer.cs">
+      <DependentUpon>frmVisualizaFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizaMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizaMarca.Designer.cs">
+      <DependentUpon>frmVisualizaMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizarCliente.Designer.cs">
+      <DependentUpon>frmVisualizarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizarCor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizarCor.Designer.cs">
+      <DependentUpon>frmVisualizarCor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizarDetalhesDeViaturas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizarDetalhesDeViaturas.Designer.cs">
+      <DependentUpon>frmVisualizarDetalhesDeViaturas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizarUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizarUsers.Designer.cs">
+      <DependentUpon>frmVisualizarUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizarViaturasNoPatio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizarViaturasNoPatio.Designer.cs">
+      <DependentUpon>frmVisualizarViaturasNoPatio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizaTurnoFun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizaTurnoFun.Designer.cs">
+      <DependentUpon>frmVisualizaTurnoFun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVisualizaViatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVisualizaViatura.Designer.cs">
+      <DependentUpon>frmVisualizaViatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVPrecos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVPrecos.Designer.cs">
+      <DependentUpon>frmVPrecos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmVTurnoFun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmVTurnoFun.Designer.cs">
+      <DependentUpon>frmVTurnoFun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\VisualizarViaturasDoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\VisualizarViaturasDoCliente.designer.cs">
+      <DependentUpon>VisualizarViaturasDoCliente.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\CadastroCliente.resx">
+      <DependentUpon>CadastroCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CadastroDTurnosFuncionarios.resx">
+      <DependentUpon>CadastroDTurnosFuncionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmAjuda.resx">
+      <DependentUpon>frmAjuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroBloqueioViaturas.resx">
+      <DependentUpon>frmCadastroBloqueioViaturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroCor.resx">
+      <DependentUpon>frmCadastroCor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroDePrecos.resx">
+      <DependentUpon>frmCadastroDePrecos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroFuncionario.resx">
+      <DependentUpon>frmCadastroFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroMarca.resx">
+      <DependentUpon>frmCadastroMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroModelo.resx">
+      <DependentUpon>frmCadastroModelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmCadastroUser.resx">
+      <DependentUpon>frmCadastroUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmSplashScreem.resx">
+      <DependentUpon>frmSplashScreem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmTicketEntrada.resx">
+      <DependentUpon>frmTicketEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUpdateFuncionario.resx">
+      <DependentUpon>frmUpdateFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUpdateModelo.resx">
+      <DependentUpon>frmUpdateModelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUpdatePrecos.resx">
+      <DependentUpon>frmUpdatePrecos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmUpDateUser.resx">
+      <DependentUpon>frmUpDateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmViewCliente.resx">
+      <DependentUpon>frmViewCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmViewFuncionario.resx">
+      <DependentUpon>frmViewFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmViewModelo.resx">
+      <DependentUpon>frmViewModelo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmViewPrecos.resx">
+      <DependentUpon>frmViewPrecos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizaFuncionario.resx">
+      <DependentUpon>frmVisualizaFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizaMarca.resx">
+      <DependentUpon>frmVisualizaMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizarCliente.resx">
+      <DependentUpon>frmVisualizarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizarCor.resx">
+      <DependentUpon>frmVisualizarCor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizarDetalhesDeViaturas.resx">
+      <DependentUpon>frmVisualizarDetalhesDeViaturas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizarUsers.resx">
+      <DependentUpon>frmVisualizarUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizarViaturasNoPatio.resx">
+      <DependentUpon>frmVisualizarViaturasNoPatio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizaTurnoFun.resx">
+      <DependentUpon>frmVisualizaTurnoFun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVisualizaViatura.resx">
+      <DependentUpon>frmVisualizaViatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVPrecos.resx">
+      <DependentUpon>frmVPrecos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\frmVTurnoFun.resx">
+      <DependentUpon>frmVTurnoFun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\VisualizarViaturasDoCliente.resx">
+      <DependentUpon>VisualizarViaturasDoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knob Remove Red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Client 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Money_Transportation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Misc_icon_Login_Manager_1785.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\parking.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chase1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Client.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\001_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Client1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_refresh.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,261 @@
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.Properties.Resources.resources
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csproj.GenerateResource.Cache
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.pdb
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmMenu.resources
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmClienteCadastro.resources
+E:\ProgramasC#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csprojResolveAssemblyReference.cache
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.pdb
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csprojResolveAssemblyReference.cache
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.Properties.Resources.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmClienteCadastro.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmMenu.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csproj.GenerateResource.Cache
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroCor.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCor.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaMarca.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraMarca.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewModelo.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroDePrecos.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaPreco.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVPrecos.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroFuncionario.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.CadastroDTurnosFuncionarios.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaTurnoFun.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVTurnoFun.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.pdb
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csprojResolveAssemblyReference.cache
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.Properties.Resources.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmClienteCadastro.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.CadastroDTurnosFuncionarios.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroCor.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroDePrecos.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroFuncionario.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraMarca.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewModelo.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaPreco.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaMarca.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCor.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaTurnoFun.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVPrecos.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVTurnoFun.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmMenu.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csproj.GenerateResource.Cache
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateModelo.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraModelo.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdatePrecos.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroUser.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpDateUser.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaFuncionario.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewFuncionario.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.pdb
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\ResolveAssemblyReference.cache
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.Properties.Resources.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmClienteCadastro.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.CadastroDTurnosFuncionarios.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroCor.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroDePrecos.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroFuncionario.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraMarca.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroAll.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraModelo.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroUser.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateModelo.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdatePrecos.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpDateUser.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewFuncionario.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewModelo.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaPreco.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaFuncionario.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaMarca.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCor.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaTurnoFun.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVPrecos.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVTurnoFun.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmMenu.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GenerateResource.read.1.tlog
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GenerateResource.write.1.tlog
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroBloqueioViaturas.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaViatura.resources
+F:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarDetalhesDeViaturas.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroBloqueioViaturas.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarDetalhesDeViaturas.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaViatura.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmLogin.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmSplashScreem.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateFuncionario.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarUsers.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmAjuda.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmAjuda.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastrarPrecos1.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroBloqueioViaturas.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraModelo.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroUser.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmLogin.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmSplashScreem.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateFuncionario.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateModelo.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdatePrecos.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpDateUser.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewFuncionario.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaFuncionario.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarDetalhesDeViaturas.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarUsers.resources
+G:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaViatura.resources
+K:\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+K:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+K:\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCliente.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarViaturasDoCliente.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewCliente.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.pdb
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csprojResolveAssemblyReference.cache
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.Properties.Resources.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmClienteCadastro.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.CadastroDTurnosFuncionarios.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmAjuda.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastrarPrecos1.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroBloqueioViaturas.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroCor.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroDePrecos.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroFuncionario.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraMarca.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraModelo.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroUser.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmLogin.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmSplashScreem.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateFuncionario.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateModelo.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdatePrecos.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpDateUser.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewCliente.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewFuncionario.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewModelo.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaPreco.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaFuncionario.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaMarca.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCliente.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCor.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarDetalhesDeViaturas.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarUsers.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaTurnoFun.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaViatura.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVPrecos.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVTurnoFun.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmMenu.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarViaturasDoCliente.resources
+C:\Users\Casanova\Desktop\C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csproj.GenerateResource.Cache
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmTicketEntrada.resources
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarViaturasNoPatio.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.exe
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\bin\Debug\GestaoDeParque.pdb
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csprojResolveAssemblyReference.cache
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.Properties.Resources.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmClienteCadastro.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.CadastroDTurnosFuncionarios.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmAjuda.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroBloqueioViaturas.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroCor.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroDePrecos.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroFuncionario.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraMarca.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraModelo.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroUser.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmLogin.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmSplashScreem.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmTicketEntrada.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateFuncionario.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateModelo.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdatePrecos.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpDateUser.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewCliente.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewFuncionario.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewModelo.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaPreco.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaFuncionario.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaMarca.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCliente.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCor.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarDetalhesDeViaturas.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarUsers.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarViaturasNoPatio.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaTurnoFun.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaViatura.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVPrecos.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVTurnoFun.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmMenu.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarViaturasDoCliente.resources
+C:\Users\Hamilton Chauze\Desktop\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.csproj.GenerateResource.Cache
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\RdlCompile.cache
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\RdlCompile.compiled
+D:\DOCS\Projectos\C#\Projecto C#\GestaoDeParque\GestaoDeParque\obj\Debug\GestaoDeParque.Relatorio.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.Properties.Resources.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmClienteCadastro.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.CadastroDTurnosFuncionarios.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmAjuda.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroBloqueioViaturas.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroCor.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroDePrecos.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroFuncionario.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraMarca.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastraModelo.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmCadastroUser.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmLogin.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmSplashScreem.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmTicketEntrada.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateFuncionario.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdateModelo.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpdatePrecos.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmUpDateUser.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewCliente.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewFuncionario.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmViewModelo.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaPreco.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaFuncionario.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaMarca.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCliente.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarCor.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarDetalhesDeViaturas.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarUsers.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarViaturasNoPatio.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaTurnoFun.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizaViatura.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVPrecos.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVTurnoFun.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmMenu.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.View.frmVisualizarViaturasDoCliente.resources
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.csproj.GenerateResource.Cache
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\bin\Debug\GestaoDeParque.exe
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\bin\Debug\GestaoDeParque.pdb
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\DOCS\Projectos\C#\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.csprojResolveAssemblyReference.cache
+D:\DOCS\Projectos\C#\git\gestao-parque-estacionamento\GestaoDeParque\bin\Debug\GestaoDeParque.exe.config
+D:\DOCS\Projectos\C#\git\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.exe
+D:\DOCS\Projectos\C#\git\gestao-parque-estacionamento\GestaoDeParque\obj\Debug\GestaoDeParque.pdb
